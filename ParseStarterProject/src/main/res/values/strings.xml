@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">Ad3f61ypFsoYsfdCQwpzr3jCgJRKjHoCorS2XuKl</string>
+    <string name="parse_client_key">JcoQYoFwCxMhAgqL1ygui2DSjrrNPhu3UJnVFmMh</string>
+
+    <string name="app_name">Nattle</string>
+    <string name="error_intro">Ooops I sharted</string>
+    <string name="error_blank_username"> username is blank</string>
+    <string name="error_join"> password is taken</string>
+    <string name="error_blank_password"> password is taken</string>
+    <string name="error_mismatched_passwords"> passwor is mismatched</string>
+    <string name="error_end"> please try again</string>
+    <string name="hello_world">Welcome to Nattle</string>
+    <string name="signup_name">Sign Up on Nattle</string>
+    <string name="logged_in_name">Welcome to Nattle</string>
+    <string name="action_settings">Settings</string>
+</resources>
